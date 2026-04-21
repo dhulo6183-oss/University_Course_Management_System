@@ -613,15 +613,3 @@ ORDER BY StudentID;
 
 ---
 
-<div align="center">
-
-### ⭐ If this project helped you learn SQL better, please give it a Star! ⭐
-
-```
-╔════════════════════════════════════════╗
-║   🎓 University Course Management      ║
-║      System — Built with ❤️ and SQL    ║
-╚════════════════════════════════════════╝
-```
-
-</div>
