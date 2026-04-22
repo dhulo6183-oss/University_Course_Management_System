@@ -1,14 +1,6 @@
 # 🎓 University Course Management System
 
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║        🏛️  UNIVERSITY COURSE MANAGEMENT SYSTEM                   ║
-║               Final Project | SQL (MySQL)                         ║
-║            ║                                                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 ![SQL](https://img.shields.io/badge/Language-SQL%20%28MySQL%29-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
