@@ -1,5 +1,5 @@
 # 🎓 University Course Management System
-
+---
 
 
 ![SQL](https://img.shields.io/badge/Language-SQL%20%28MySQL%29-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
