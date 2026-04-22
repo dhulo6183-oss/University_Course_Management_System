@@ -568,36 +568,6 @@ ORDER BY StudentID;
 ║     Window Functions, CASE Statements            ║
 ╚══════════════════════════════════════════════════╝
 ```
-
----
-
-## ✨ Concepts Coverage Checklist
-
-| 🏷️ SQL Concept | ✅ Status |
-|:--------------:|:--------:|
-| CREATE DATABASE & USE | ✅ Done |
-| CREATE TABLE with PK & FK | ✅ Done |
-| INSERT with 30+ rows per table | ✅ Done |
-| SELECT with WHERE & ORDER BY | ✅ Done |
-| UPDATE — INCREMENT & DECREMENT | ✅ Done |
-| DELETE with condition | ✅ Done |
-| INNER JOIN (multi-table) | ✅ Done |
-| LEFT JOIN | ✅ Done |
-| UNION | ✅ Done |
-| INTERSECT (via double JOIN) | ✅ Done |
-| Nested Subquery (3 levels) | ✅ Done |
-| GROUP BY + HAVING | ✅ Done |
-| COUNT(), AVG(), MAX(), SUM() | ✅ Done |
-| YEAR(), DATEDIFF(), CURDATE() | ✅ Done |
-| CONCAT() | ✅ Done |
-| Window Function — SUM OVER | ✅ Done |
-| CASE Statement | ✅ Done |
-| LIMIT clause | ✅ Done |
-
----
-
-## 📬 Author
-
 <div align="center">
 
 > 💬 *"Data is the new oil — SQL is the refinery that makes it useful."*
@@ -611,5 +581,6 @@ ORDER BY StudentID;
 
 </div>
 
----
+## 📬 Author
+
 
