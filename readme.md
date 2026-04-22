@@ -4,9 +4,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║        🏛️  UNIVERSITY COURSE MANAGEMENT SYSTEM                  ║
-║               Final Project | SQL (MySQL)                        ║
-║        📂  Database: IndianUniversityCMS  |  License: MIT       ║
+║        🏛️  UNIVERSITY COURSE MANAGEMENT SYSTEM                   ║
+║               Final Project | SQL (MySQL)                         ║
+║            ║                                                      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
