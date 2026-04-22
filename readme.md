@@ -560,19 +560,8 @@ ORDER BY StudentID;
 ║     Window Functions, CASE Statements            ║
 ╚══════════════════════════════════════════════════╝
 ```
-<div align="center">
 
-> 💬 *"Data is the new oil — SQL is the refinery that makes it useful."*
-
-| 🏷️ Detail | 📌 Info |
-|:---------:|:-------:|
-| 🗂️ Project | University Course Management System |
-| 📚 Subject | SQL — Final Project |
-| 🐬 Language | MySQL 8.0+ |
-| 📄 License | MIT |
-
-</div>
 
 ## 📬 Author
 
-
+**Dhruv Prajapati**
